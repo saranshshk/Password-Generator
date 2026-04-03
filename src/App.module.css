@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ribeye&family=Smooch+Sans:wght@100..900&display=swap');
+.heading{
+ 
+        font-family: "Ribeye", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(249, 250, 250);
+        font-size: 42px;
+      
+}
+/* .container{
+    background-color: #1d1d1d;
+} */
+.range{
+    Border: 21px solid rgba(255, 255, 255, 0.1);
+
+}
+.custom{
+   
+    /* background-color: #1A1A1B; */
+    background-color: #121212;
+    font-family: "Smooch Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 500;
+    Background-color: rgba(255, 255, 255, 0.05);
+
+Backdrop-filter: blur(10px);
+
+Border: 1px solid rgba(255, 255, 255, 0.1);
+    
+}
+
