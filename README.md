@@ -22,6 +22,9 @@ A modern and responsive password generator built with **React** that helps users
 ##  Installation
 
 git clone https://github.com/saranshshk/Password-Generator.git
-cd Password-Generator-Main
-npm install
-npm run dev
+
+-cd Password-Generator-Main
+
+-npm install
+
+-npm run dev
