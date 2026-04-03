@@ -17,7 +17,7 @@ A modern and responsive password generator built with **React** that helps users
 - React Toastify
 
 ##  Live Demo
-  https://passgen-saranshshks-projects.vercel.app/
+  https://passgen-ten-zeta.vercel.app/
 
 ##  Installation
 
